@@ -5,4 +5,4 @@ The web page presents four prompts for the user to choose from, so the user can 
 clicks on one of the four options the previously shown piece of content is cleared before the new one is displayed. The project also includes a small amount of error handling
 for when the user clicks on the 'reveal riddle answer' before a riddle is displayed, or after the answer has been revealed.
 
-To view the webpage please copy and paste the HTML, CSS and JavaScript files into your code editor and run it from there. Make sure to save the CSS and JS files as they are named here. I hope you enjoy playing around with it.
+To view the webpage please copy and paste the HTML, CSS and JavaScript files into your code editor and run it from there. Make sure to save the files as they are named here. I hope you enjoy playing around with it.
