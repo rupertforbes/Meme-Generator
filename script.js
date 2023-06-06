@@ -140,7 +140,7 @@ const quotes = [
     },
     {
       quote:
-        "Many of life's failurs are people who did not realize how close they were to success when they gave up.",
+        "Many of life's failures are people who did not realize how close they were to success when they gave up.",
       author: "Thomas A. Edison",
     },
     {
